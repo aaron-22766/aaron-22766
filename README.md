@@ -19,6 +19,6 @@ The following projects I have completed and you can find my code in the respecti
 
 [![arabenst's 42 get_next_line Score](https://badge42.vercel.app/api/v2/clav54d3u00110fky9m2d889w/project/2862958)](https://github.com/JaeSeoKim/badge42)
 
-## ft_printf
+### ft_printf
 
 [![arabenst's 42 ft_printf Score](https://badge42.vercel.app/api/v2/clav54d3u00110fky9m2d889w/project/2878534)](https://github.com/JaeSeoKim/badge42)
