@@ -12,8 +12,8 @@ The following projects I have completed and you can find my code in the respecti
 
 |  Project  |  Score  |
 |-----------|---------|
-|  [Libft](https://github.com/aaron-22766/0.0_libft.git)  |  [![125/100](https://badge42.vercel.app/api/v2/clav54d3u00110fky9m2d889w/project/2829023)](https://github.com/JaeSeoKim/badge42)  |
-|  [Get_Next_Line](https://github.com/aaron-22766/1.0_get_next_line.git)  |  [![125/100](https://badge42.vercel.app/api/v2/clav54d3u00110fky9m2d889w/project/2862958)](https://github.com/JaeSeoKim/badge42)  |
+|  [libft](https://github.com/aaron-22766/0.0_libft.git)  |  [![125/100](https://badge42.vercel.app/api/v2/clav54d3u00110fky9m2d889w/project/2829023)](https://github.com/JaeSeoKim/badge42)  |
+|  [get_next_line](https://github.com/aaron-22766/1.0_get_next_line.git)  |  [![125/100](https://badge42.vercel.app/api/v2/clav54d3u00110fky9m2d889w/project/2862958)](https://github.com/JaeSeoKim/badge42)  |
 |  [ft_printf](https://github.com/aaron-22766/1.1_ft_printf.git)  | [![125/100](https://badge42.vercel.app/api/v2/clav54d3u00110fky9m2d889w/project/2878534)](https://github.com/JaeSeoKim/badge42)  |
-|  [Born2BeRoot](https://github.com/aaron-22766/1.2_born2beroot.git)  |  [![110/100](https://badge42.vercel.app/api/v2/clav54d3u00110fky9m2d889w/project/2893889)](https://github.com/JaeSeoKim/badge42)  |
+|  [born2beroot](https://github.com/aaron-22766/1.2_born2beroot.git)  |  [![110/100](https://badge42.vercel.app/api/v2/clav54d3u00110fky9m2d889w/project/2893889)](https://github.com/JaeSeoKim/badge42)  |
 |  [so_long](https://github.com/aaron-22766/2.0_so_long.git)  |  [![subscribed](https://badge42.vercel.app/api/v2/clav54d3u00110fky9m2d889w/project/2916515)](https://github.com/JaeSeoKim/badge42)  |
