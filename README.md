@@ -18,3 +18,5 @@ The following projects I have completed and you can find my code in the respecti
 |  [born2beroot](https://github.com/aaron-22766/1.2_born2beroot.git)  |  [![110/100](https://badge42.vercel.app/api/v2/clav54d3u00110fky9m2d889w/project/2893889)](https://github.com/JaeSeoKim/badge42)  |
 |  Exam Rank 02  |  [![100/100](https://badge42.vercel.app/api/v2/clav54d3u00110fky9m2d889w/project/2928654)](https://github.com/JaeSeoKim/badge42)  |
 |  [so_long](https://github.com/aaron-22766/2.0_so_long.git)  |  [![125/100](https://badge42.vercel.app/api/v2/clav54d3u00110fky9m2d889w/project/2916515)](https://github.com/JaeSeoKim/badge42)  |
+|  [minitalk](https://github.com/aaron-22766/2.1_minitalk.git)  |  [![125/100](https://badge42.vercel.app/api/v2/clav54d3u00110fky9m2d889w/project/2971977)](https://github.com/JaeSeoKim/badge42)  |
+|  [push_swap](https://github.com/aaron-22766/2.2_push_swap.git)  |  [![subscribed](https://badge42.vercel.app/api/v2/clav54d3u00110fky9m2d889w/project/2998854)](https://github.com/JaeSeoKim/badge42)  |
