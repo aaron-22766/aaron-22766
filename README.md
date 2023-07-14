@@ -23,3 +23,4 @@ The following projects I have completed and you can find my code in the respecti
 |  Exam Rank 03  |  [![100/100](https://badge42.vercel.app/api/v2/clav54d3u00110fky9m2d889w/project/3078006)](https://github.com/JaeSeoKim/badge42)  |
 |  [minishell](https://github.com/aaron-22766/42_minishell.git)  |  [![101/100](https://badge42.vercel.app/api/v2/clav54d3u00110fky9m2d889w/project/3095637)](https://github.com/JaeSeoKim/badge42)  |
 |  [philosophers](https://github.com/aaron-22766/42_philosophers.git)  |  [![100/100](https://badge42.vercel.app/api/v2/clav54d3u00110fky9m2d889w/project/3078162)](https://github.com/JaeSeoKim/badge42)  |
+|  Exam Rank 04  |  [![100/100](https://badge42.vercel.app/api/v2/clav54d3u00110fky9m2d889w/project/3157928)](https://github.com/JaeSeoKim/badge42)  |
