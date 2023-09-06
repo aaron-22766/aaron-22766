@@ -3,9 +3,8 @@
 I am currently a software engineering student at [42 Heilbronn](https://www.42heilbronn.de/en/). Here are my stats:
 
 
-
-[![failed to display stats](https://badge42.vercel.app/api/v2/clav54d3u00110fky9m2d889w/stats?cursusId=21&coalitionId=160)](https://github.com/JaeSeoKim/badge42)
-
+[![failed to display stats](https://badge.mediaplus.ma/honeytones/arabenst?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+<!--- [![failed to display stats](https://badge42.vercel.app/api/v2/clav54d3u00110fky9m2d889w/stats?cursusId=21&coalitionId=160)](https://github.com/JaeSeoKim/badge42)--->
 
 
 The following projects I have completed and you can find my code in the respective repositories.
