@@ -1,20 +1,34 @@
 <h1 align="center">
-    <img src="https://github.com/aaron-22766/aaron-22766/blob/main/bin/images/banner.jpg">
-    <br>
+    <img src="https://github.com/aaron-22766/aaron-22766/blob/main/bin/images/banner.jpg" alt="">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=M+PLUS+Rounded+1c&weight=800&size=40&color=497DE6&center=true&vCenter=true&random=false&width=700&height=70&lines=Hi+there!+I'm+Aaron+%E2%9C%8C%EF%B8%8F;Welcome+to+my+profile!" alt="Hi there!" /></a>
 </h1>
 
-
-
-# WORK IN PROGRESS
-<img src="https://img.shields.io/badge/Heilbronn-58B7BA?style=for-the-badge&logo=42&logoColor=white" alt="42">
-
-
-
-
-
 <div align="center">
-    <h2>What I know and use</h2>
+  
+  **👋 Hi, my name is Aaron Rabenstein**
+  
+  **🎓 I am currently studying Computer Science at**
+  
+  <a href="https://www.42heilbronn.de"><img src="https://img.shields.io/badge/Heilbronn-58B7BA?style=for-the-badge&logo=42&logoColor=white" alt="42 Heilbronn"></a>
+
+  **📚 Check out these cool projects I've been working on**
+
+   <a href="https://github.com/aaron-22766/42_Cursus/blob/master/README.md"><img src="https://img.shields.io/badge/Cursus_Projects-E0E0E0?style=for-the-badge&logo=42&logoColor=58B7BA" alt="42 Cursus"></a>
+<details><summary>About me</summary>
+
+  ** I'm very interested in tech hardware, expecially Apple**
+
+  **🔨 I want to build apps that improve our daily lives**
+
+  **♻️ My motto is 'efficiency first' because every resource counts**
+
+  **🚶‍♂️ I like to go on long walks and enjoy nature**
+  
+  **🤓 Want to nerd out? I love Lord of the Rings, Narnia, Hunger Games and other fantasy tales**
+</details>
+</div>
+<div align="center">
+    <h2>What I know and use 👨‍💻</h2>
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
     <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
@@ -46,29 +60,29 @@
     <img src="https://img.shields.io/badge/Stackoverflow-E3853D?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stackoverflow">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
     <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack">
-    <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="chatGPT">
-    <h2>Want to learn</h2>
+    <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT">
+    <h2>Want to learn 📖</h2>
+    <img src="https://img.shields.io/badge/Objective%E2%80%93C-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Objective-C">
     <img src="https://img.shields.io/badge/SwiftUI-284DCF?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI">
-    <img src="https://img.shields.io/badge/Objective%E2%80%93C-000000?style=for-the-badge&logo=apple&logoColor=white" alt="SwiftUI">
+    <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+    <br>
     <img src="https://img.shields.io/badge/Kotlin-B236DD?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
     <img src="https://img.shields.io/badge/Java-D7463F?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
     <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
     <img src="https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white" alt="Xamarin">
     <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET">
-    <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-    <h2>Statistics</h2>
+    <h2>Statistics 📊</h2>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=aaron-22766&hide=prs&show_icons=true&=title_color=ffffff&text_color=e7edf2&icon_color=050b4a&hide_border=true&border_radius=21&bg_color=45,7297df,224abf&hide_rank=true&include_all_commits=true&custom_title=My+GitHub+stats" alt="My GitHub stats"></a>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaron-22766&=title_color=ffffff&text_color=e7edf2&layout=compact&hide_border=true&border_radius=21&bg_color=45,386CE2,060A40" als="Most Used Languages"></a>
-    <h2>Socials</h2>
+    <h2>Socials 📯</h2>
     <a href="https://www.linkedin.com/in/aaron-rabenstein" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="https://twitter.com/aaron__22766" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
     <a href="https://www.youtube.com/@aaron_22766" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
-
 </div>
-
-<p align="right">
+<br><br><br>
+<div align="right">
     <a href="https://github.com/hehuapei/visitor-badge"><img src="https://visitor-badge.laobi.icu/badge?page_id=aaron-22766.aaron-22766&right_color=yellow" alt=""></a>
-</p>
+</div>
 
 <!--
 <a href=""><img src="" alt=""></a>
