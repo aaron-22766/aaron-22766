@@ -6,13 +6,18 @@
   
   **👋 Hi, my name is Aaron Rabenstein**
   
-  **🎓 I am currently studying Computer Science at**
+  **🎓 I am currently studying Computer Science at:**
   
   <a href="https://www.42heilbronn.de"><img src="https://img.shields.io/badge/Heilbronn-58B7BA?style=for-the-badge&logo=42&logoColor=white" alt="42 Heilbronn"></a>
 
-  **📚 Check out these cool projects I've been working on**
+  **📚 Check out these cool projects I've been working on at 42:**
 
    <a href="https://github.com/aaron-22766/42_Cursus/blob/master/README.md"><img src="https://img.shields.io/badge/Cursus_Projects-E0E0E0?style=for-the-badge&logo=42&logoColor=58B7BA" alt="42 Cursus"></a>
+
+  **🐦‍🔥 I'm currently learning iOS App Development:**
+
+   <a href="https://github.com/aaron-22766/Hacking-With-Swift.git"><img src="https://img.shields.io/badge/Hacking_With_Swift-E0E0E0?style=for-the-badge&logo=Swift&logoColor=FA7343" alt="Hacking With Swift"></a>
+  
 <details><summary>About me</summary>
 
   ** I'm very interested in tech hardware, expecially Apple**
