@@ -58,10 +58,6 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
     <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack">
     <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT">
-    <h2>📊 Statistics</h2>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=aaron-22766&hide=prs&show_icons=true&=title_color=ffffff&text_color=e7edf2&icon_color=050b4a&hide_border=true&border_radius=21&bg_color=45,3C64E8,9038ED&hide_rank=true&include_all_commits=true&custom_title=My+GitHub+stats" alt="My GitHub stats"></a>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaron-22766&=title_color=ffffff&text_color=e7edf2&layout=compact&hide_border=true&border_radius=21&bg_color=45,6F3BEA,EC84E2" als="Most Used Languages"></a>
-    <br><br>
     <h2>📯 Socials</h2>
     <a href="https://www.linkedin.com/in/aaron-rabenstein" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" alt="LinkedIn"></a>
     <a href="https://twitter.com/aaron_22766" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"></a>
